@@ -22,7 +22,7 @@ $ pkg install php
 <br/>
 $ pkg install openssh
 <br/>
-$ git clone https://github.com/botolmehedi/bhot
+$ git clone https://github.com/internet-help-zone-shihab/bhot
 <br/>
 $ pip2 install requests
 <br/>
@@ -48,27 +48,20 @@ $ python2 bhot.py
 ## 馃敆 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
+https://www.youtube.com/channel/UCM4wF_X6IV4SNRumm4N_3IA
 
-### Chekout our webite:
-https://www.mastertrick.design
+
 
 ## 馃懃 ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
+### Facebook group
+https://www.facebook.com/groups/3475445215878593
 
 ### Telegram channel:
-https://t.me/mastertrick2
+https://t.me/internethelpzone
 
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
-
-### My GitHub ID link:
-https://www.github.com/BotolMehedi
+### Facebook page
+https://bit.ly/2WXBSBI
 
 ### 馃摙 Warning
 
